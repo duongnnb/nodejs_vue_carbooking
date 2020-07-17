@@ -13,7 +13,7 @@
     "bootstrap337": "^3.3.7",
     "es6-promise": "^4.2.5",
     "haversine": "^1.1.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "numeral": "^2.0.6",
     "socket.io-client": "^2.1.1",
     "vue": "^2.5.17",
