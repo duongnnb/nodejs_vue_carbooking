@@ -15,7 +15,7 @@
     "haversine": "^1.1.0",
     "jquery": "^3.3.1",
     "numeral": "^2.0.6",
-    "socket.io-client": "^2.1.1",
+    "socket.io-client": "^2.5.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.2",
     "vue-socket.io": "^3.0.2",
